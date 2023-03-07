@@ -17,3 +17,6 @@ const secondDeg = (seconds / 60) * 360;
 secondEl.style.transform = `rotate(${secondDeg}deg)`
 }
 updateClock();
+
+
+
